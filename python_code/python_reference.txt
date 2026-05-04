@@ -1,0 +1,24 @@
+Python Reference
+
+
+Can run code
+https://www.programiz.com/python-programming
+
+https://www.geeksforgeeks.org/python/defaultdict-in-python/
+https://www.pythontutor.net/python-tutorial/python-dictionaries/python-defaultdict.php
+
+Succint tutorial. Diagrams are helpful
+https://www.educative.io/answers/learning-about-defaultdict-in-python
+
+Super brief summary of the language. To the point
+https://www.stavros.io/tutorials/python/
+
+
+Contain exercises
+https://pythonbasics.org/
+
+
+Videos
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+https://www.youtube.com/@joejamesusa
+
