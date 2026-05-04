@@ -1,0 +1,5 @@
+2026-04-20T10:00:00Z auth-service ERROR Failed login for user123
+2026-04-20T10:00:01Z payment-service INFO Payment processed
+2026-04-20T10:00:02Z auth-service ERROR Failed login for user456
+2026-04-20T10:00:03Z auth-service INFO User logged out
+2026-04-20T10:00:04Z payment-service ERROR Card declined
